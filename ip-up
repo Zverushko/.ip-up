@@ -1,4 +1,6 @@
 #!/bin/sh
-/sbin/route add 81.17.30.51 -interface $1
+#/sbin/route add 192.168.0.0/24 -interface $1 
+
+/sbin/route add 81.17.30.51 -interface $1  #nnmclub.to
 
 
