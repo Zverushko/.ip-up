@@ -1,0 +1,4 @@
+#!/bin/sh
+/sbin/route add 81.17.30.51 -interface $1
+
+
